@@ -2,7 +2,7 @@
 
 [![GitHub version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/translations-com/globallink-connect-nodejs-callback)
 
-![Purpose](https://img.shields.io/badge/purpose-sample%20code-orange.svg)
+![Flavor](https://img.shields.io/badge/flavor-nodejs-orange.svg)
 
 GlobalLink Connect Cloud Callback Client is a NodeJS module which facilitates processing the webhook responses from [GlobalLink Connect Cloud](http://www.translations.com/globallink/products/globallink_connect.html) REST API.
 
